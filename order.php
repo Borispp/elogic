@@ -110,6 +110,36 @@
 
 						<div class="hint -hint2">
 							<div class="hint_text">
+								<h2>Fosa septica</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint3">
+							<div class="hint_text">
+								<h2>Rezervuar</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+
+						<div class="hint -hint4">
+							<div class="hint_text">
+								<h2>Drenaj</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="select_type--image -argila_medium">
+						<div class="hint -hint1">
+							<div class="hint_text">
+								<h2>Sistema de aerisire</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint2">
+							<div class="hint_text">
 								<h2>Ministatie epurare</h2>
 								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
 							</div>
@@ -125,6 +155,214 @@
 						<div class="hint -hint4">
 							<div class="hint_text">
 								<h2>Drenaj</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint5">
+							<div class="hint_text">
+								<h2>Rezervuar cu pompa</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+					</div>
+
+					<div class="select_type--image -argila_premium">
+						<div class="hint -hint1">
+							<div class="hint_text">
+								<h2>Sistema de aerisire</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint2">
+							<div class="hint_text">
+								<h2>Ministatie epurare</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint3">
+							<div class="hint_text">
+								<h2>Volum techic cu priza dubla si furtun anexat cu conector</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+
+						<div class="hint -hint4">
+							<div class="hint_text">
+								<h2>Drenaj</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint5">
+							<div class="hint_text">
+								<h2>Rezervuar cu doua pompe si circa 1680 l. de apa tehnica</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="select_type--image -argila_full">
+						<div class="hint -hint1">
+							<div class="hint_text">
+								<h2>Sistema de aerisire</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint2">
+							<div class="hint_text">
+								<h2>Ministatie epurare</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint3">
+							<div class="hint_text">
+								<h2>Volum techic cu priza dubla si furtun anexat cu conector</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+
+						<div class="hint -hint4">
+							<div class="hint_text">
+								<h2>Dublu drenaj</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint5">
+							<div class="hint_text">
+								<h2>Rezervuar cu doua pompe si circa 1680 l. de apa tehnica</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint6">
+							<div class="hint_text">
+								<h2>Fontanica</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="select_type--image -nisip_econom">
+						<div class="hint -hint1">
+							<div class="hint_text">
+								<h2>Sistema de aerisire</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint2">
+							<div class="hint_text">
+								<h2>Fosa septica</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint3">
+							<div class="hint_text">
+								<h2>Drenaj</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+					</div>
+
+					<div class="select_type--image -nisip_medium">
+						<div class="hint -hint1">
+							<div class="hint_text">
+								<h2>Sistema de aerisire</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint2">
+							<div class="hint_text">
+								<h2>Ministatie epurare</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint3">
+							<div class="hint_text">
+								<h2>Drenaj</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+					</div>
+
+					<div class="select_type--image -nisip_premium">
+						<div class="hint -hint1">
+							<div class="hint_text">
+								<h2>Sistema de aerisire</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint2">
+							<div class="hint_text">
+								<h2>Ministatie epurare</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint3">
+							<div class="hint_text">
+								<h2>Drenaj</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+
+						<div class="hint -hint4">
+							<div class="hint_text">
+								<h2>Reservuar cu circa 950 l. de apa tehnica</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+					</div>
+
+					<div class="select_type--image -nisip_full">
+						<div class="hint -hint1">
+							<div class="hint_text">
+								<h2>Sistema de aerisire</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint2">
+							<div class="hint_text">
+								<h2>Ministatie epurare</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
+							</div>
+						</div>
+
+						<div class="hint -hint3">
+							<div class="hint_text">
+								<h2>Drenaj</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+
+						<div class="hint -hint4">
+							<div class="hint_text">
+								<h2>Reservuar cu circa 950 l. de apa tehnica</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+
+						<div class="hint -hint5">
+							<div class="hint_text">
+								<h2>Volum techic cu priza dubla si furtun anexat cu conector</h2>
+								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj </p>
+							</div>
+						</div>
+
+						<div class="hint -hint6">
+							<div class="hint_text">
+								<h2>Fontanica</h2>
 								<p>Gradul de epurare dupa fosa costituie 70% iar dupa drenaj</p>
 							</div>
 						</div>

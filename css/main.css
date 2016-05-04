@@ -1795,7 +1795,7 @@ section.-call_me form .form-input {
   background: url("../images/argila_econom.png") center top;
 }
 .-order .select_type--image.-argila_econom .-hint1 {
-  top: 0px;
+  top: -4px;
   height: 85px;
   margin-left: -420px;
 }
@@ -1804,16 +1804,236 @@ section.-call_me form .form-input {
   bottom: 0;
 }
 .-order .select_type--image.-argila_econom .-hint2 {
-  top: 402px;
-  margin-left: -520px;
+  top: 406px;
+  margin-left: -524px;
 }
 .-order .select_type--image.-argila_econom .-hint3 {
-  top: 415px;
+  top: 417px;
   margin-left: -100px;
 }
 .-order .select_type--image.-argila_econom .-hint4 {
-  top: 370px;
-  margin-left: 420px;
+  top: 387px;
+  margin-left: 540px;
+}
+.-order .select_type--image.-argila_medium {
+  background: url("../images/argila_medium.png") no-repeat;
+  position: relative;
+  top: 100px;
+  padding-bottom: 100px;
+}
+.-order .select_type--image.-argila_medium .-hint1 {
+  top: -4px;
+  height: 85px;
+  margin-left: -420px;
+}
+.-order .select_type--image.-argila_medium .-hint1 .hint_text {
+  position: absolute;
+  bottom: 0;
+}
+.-order .select_type--image.-argila_medium .-hint2 {
+  top: 355px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-argila_medium .-hint3 {
+  top: 386px;
+  margin-left: 8px;
+}
+.-order .select_type--image.-argila_medium .-hint4 {
+  top: 340px;
+  margin-left: 542px;
+}
+.-order .select_type--image.-argila_medium .-hint5 {
+  top: 446px;
+  margin-left: 436px;
+}
+.-order .select_type--image.-argila_premium {
+  background: url("../images/argila_premium.png") no-repeat;
+  position: relative;
+  top: 100px;
+  padding-bottom: 100px;
+}
+.-order .select_type--image.-argila_premium .-hint1 {
+  top: -10px;
+  height: 85px;
+  margin-left: -420px;
+}
+.-order .select_type--image.-argila_premium .-hint1 .hint_text {
+  position: absolute;
+  bottom: 0;
+}
+.-order .select_type--image.-argila_premium .-hint2 {
+  top: 348px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-argila_premium .-hint3 {
+  top: 378px;
+  margin-left: -96px;
+}
+.-order .select_type--image.-argila_premium .-hint3 h2 {
+  width: 252px;
+}
+.-order .select_type--image.-argila_premium .-hint4 {
+  top: 332px;
+  margin-left: 542px;
+}
+.-order .select_type--image.-argila_premium .-hint5 {
+  top: 440px;
+  margin-left: 436px;
+}
+.-order .select_type--image.-argila_premium .-hint5 h2 {
+  width: 252px;
+}
+.-order .select_type--image.-argila_full {
+  background: url("../images/argila_full.png") no-repeat;
+  position: relative;
+  top: 200px;
+  padding-bottom: 200px;
+}
+.-order .select_type--image.-argila_full .-hint1 {
+  top: -72px;
+  height: 85px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-argila_full .-hint1 .hint_text {
+  position: absolute;
+  bottom: 0;
+}
+.-order .select_type--image.-argila_full .-hint2 {
+  top: 364px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-argila_full .-hint3 {
+  top: 374px;
+  margin-left: -96px;
+}
+.-order .select_type--image.-argila_full .-hint3 h2 {
+  width: 252px;
+}
+.-order .select_type--image.-argila_full .-hint4 {
+  top: 328px;
+  margin-left: 544px;
+}
+.-order .select_type--image.-argila_full .-hint5 {
+  top: 436px;
+  margin-left: 442px;
+}
+.-order .select_type--image.-argila_full .-hint5 h2 {
+  width: 252px;
+}
+.-order .select_type--image.-argila_full .-hint6 {
+  top: -2px;
+  margin-left: 436px;
+}
+.-order .select_type--image.-nisip_econom {
+  background: url("../images/nisip_econom.png") no-repeat;
+  position: relative;
+  top: 200px;
+  padding-bottom: 200px;
+}
+.-order .select_type--image.-nisip_econom .-hint1 {
+  top: -66px;
+  height: 85px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-nisip_econom .-hint1 .hint_text {
+  position: absolute;
+  bottom: 0;
+}
+.-order .select_type--image.-nisip_econom .-hint2 {
+  top: 394px;
+  margin-left: -312px;
+}
+.-order .select_type--image.-nisip_econom .-hint3 {
+  top: 360px;
+  margin-left: 434px;
+}
+.-order .select_type--image.-nisip_medium {
+  background: url("../images/nisip_medium.png") no-repeat;
+  position: relative;
+  top: 100px;
+  padding-bottom: 200px;
+}
+.-order .select_type--image.-nisip_medium .-hint1 {
+  top: -6px;
+  height: 85px;
+  margin-left: -420px;
+}
+.-order .select_type--image.-nisip_medium .-hint1 .hint_text {
+  position: absolute;
+  bottom: 0;
+}
+.-order .select_type--image.-nisip_medium .-hint2 {
+  top: 364px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-nisip_medium .-hint3 {
+  top: 440px;
+  margin-left: 546px;
+}
+.-order .select_type--image.-nisip_premium {
+  background: url("../images/nisip_premium.png") no-repeat;
+  position: relative;
+  top: 0;
+  padding-bottom: 100px;
+}
+.-order .select_type--image.-nisip_premium .-hint1 {
+  top: 0px;
+  height: 85px;
+  margin-left: -420px;
+}
+.-order .select_type--image.-nisip_premium .-hint1 .hint_text {
+  position: absolute;
+  bottom: 0;
+}
+.-order .select_type--image.-nisip_premium .-hint2 {
+  top: 358px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-nisip_premium .-hint3 {
+  top: 426px;
+  margin-left: 542px;
+}
+.-order .select_type--image.-nisip_premium .-hint4 {
+  top: 435px;
+  margin-left: 10px;
+}
+.-order .select_type--image.-nisip_full {
+  background: url("../images/nisip_full.png") no-repeat;
+  position: relative;
+  top: 0;
+  padding-bottom: 200px;
+}
+.-order .select_type--image.-nisip_full .-hint1 {
+  top: -85px;
+  height: 85px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-nisip_full .-hint1 .hint_text {
+  position: absolute;
+  bottom: 0;
+}
+.-order .select_type--image.-nisip_full .-hint2 {
+  top: 380px;
+  margin-left: -524px;
+}
+.-order .select_type--image.-nisip_full .-hint3 {
+  top: 450px;
+  margin-left: 544px;
+}
+.-order .select_type--image.-nisip_full .-hint4 {
+  top: 464px;
+  margin-left: 10px;
+}
+.-order .select_type--image.-nisip_full .-hint5 {
+  top: 356px;
+  margin-left: -200px;
+}
+.-order .select_type--image.-nisip_full .-hint5 h2 {
+  width: 252px;
+}
+.-order .select_type--image.-nisip_full .-hint6 {
+  top: -10px;
+  margin-left: 440px;
 }
 .tooltip {
   position: relative;
